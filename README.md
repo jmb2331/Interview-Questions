@@ -1,4 +1,3 @@
-![C Programming](https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-ec1e2865d914521ded388fbcc447791c&imgrefurl=https%3A%2F%2Fwww.quora.com%2FHow-can-I-make-a-website-using-c-language&docid=q_X_B5_CKgvgOM&tbnid=smOWGGPnH2VZ-M%3A&vet=10ahUKEwjAyouUo63eAhU6ITQIHZpBAVMQMwidASglMCU..i&w=333&h=354&client=ubuntu&bih=553&biw=1013&q=C%20Programming&ved=0ahUKEwjAyouUo63eAhU6ITQIHZpBAVMQMwidASglMCU&iact=mrc&uact=8)
 
 # Interview-Questions
 This repository contains interview questions I have found either from:
