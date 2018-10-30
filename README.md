@@ -9,7 +9,7 @@ This repository contains interview questions I have found either from:
   and I do not give permission for anyone to copy.
   
    #### Contact
-   I am currently looking for a full-time role in the embedded software or related fields. If you have any suggestions or think that I could be a good contributor to a project at a company please feel free to contact me.
+   I am currently looking for a full-time role in the embedded software or related fields. If you have any suggestions or think that I would be a good contributor to a project at a company please feel free to contact me.
   jmb2331@vt.edu
   
   ### About
