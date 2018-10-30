@@ -15,4 +15,8 @@ This repository contains interview questions I have found either from:
   can be solved very easily in C++ may seem to be more tedious as I tend to try to not use things like std::string and its 
   corresponding functions although may have used it in some cases especially the actual timed interviews where this was allowed.
   
+  ### Contact
+  If you have any suggestions or think that I could be a good contributor to a project at a company please feel free to contact me.
+  jmb2331@vt.edu
+  
 
