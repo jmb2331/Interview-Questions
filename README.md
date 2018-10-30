@@ -6,9 +6,9 @@ This repository contains interview questions I have found either from:
   
    ### About
    I have decided to write these programming problems using:
-   -C or C++
+   - [C](https://en.wikipedia.org/wiki/C_(programming_language)) or [C++](https://en.wikipedia.org/wiki/C%2B%2B)
    - [Google Test](https://github.com/google/googletest)
-   -Visual Studio IDE
+   - [Visual Studio](https://visualstudio.microsoft.com/)
    
   I have opted to use C and C++ as my main two programming languages when solving these problems. The reason I have chosen C++ over
   some problems instead of C is due to some questions are best solved using object-oriented principles. I find writing C++ to be much easier although even
