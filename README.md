@@ -11,7 +11,6 @@ This repository contains interview questions I have found either from:
    - [Google Test](https://github.com/google/googletest)
    - [Visual Studio](https://visualstudio.microsoft.com/)
    
-   > Note: upon making this repository, I have switched to soley use the Linux distribution [Ubuntu](https://www.ubuntu.com/). Therefore I will be switching from Visual Studio to possibly just compiling my code via terminal using a compiler such as [g++](https://www.cprogramming.com/g++.html) ...
    
   I have opted to use C and C++ as my main two programming languages when solving these problems. The reason I have chosen C++ over
   some problems instead of C is due to some questions are best solved using object-oriented principles. I find writing C++ to be much easier although even
@@ -20,6 +19,8 @@ This repository contains interview questions I have found either from:
   corresponding functions although may have used it in some cases especially the actual timed interviews where this was allowed.
   
   I am using the Google Test Framework because it is easy to use in my IDE of choice, Visual Studio. Visual Studio is easy to use and I have experience using it from college.
+  
+     > Note: upon making this repository, I have switched to soley use the Linux distribution [Ubuntu](https://www.ubuntu.com/). Therefore I will be switching from Visual Studio to possibly just compiling my code via terminal using a compiler such as [g++](https://www.cprogramming.com/g++.html) ...
   
   ### Why
   I have decided to share my code in order for recruiters and other engineers to see my style. All of the code here is written by me
