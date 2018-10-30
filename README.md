@@ -18,7 +18,7 @@ This repository contains interview questions I have found either from:
   can be solved very easily in C++ may seem to be more tedious as I tend to try to not use things like std::string and its 
   corresponding functions although may have used it in some cases especially the actual timed interviews where this was allowed.
   
-  I am using the Google Test Framework because it is easy to use in my IDE of choice, Visual Studio. Visual Studio is easy to use and I have experience using it from college.
+  I am using the Google Test Framework because it is easy to use in my IDE of choice, Visual Studio. Visual Studio is a very popular IDE and I have experience using it from college.
   
  > Note: upon making this repository, I have switched to soley use the Linux distribution [Ubuntu](https://www.ubuntu.com/) . Therefore I will be switching from Visual Studio to possibly just compiling my code via terminal using a compiler such as [g++](https://www.cprogramming.com/g++.html) ...
   
