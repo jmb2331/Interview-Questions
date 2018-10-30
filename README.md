@@ -1,14 +1,17 @@
 # Interview-Questions
 This repository contains interview questions I have found either from:
-  - Cracking the Coding Interview
-  - Hacker Rank
+  - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+  - [Hacker Rank](https://www.hackerrank.com/)
   - Actual interviews
+ 
   
    ### About
    I have decided to write these programming problems using:
    - [C](https://en.wikipedia.org/wiki/C_(programming_language)) or [C++](https://en.wikipedia.org/wiki/C%2B%2B)
    - [Google Test](https://github.com/google/googletest)
    - [Visual Studio](https://visualstudio.microsoft.com/)
+   
+   Note: upon making this repository, I have switched to soley use the Linux distribution [Ubuntu](https://www.ubuntu.com/). Therefore I will be switching from Visual Studio to possibly just compiling my code via terminal using a compiler such as [g++](https://www.cprogramming.com/g++.html) ...
    
   I have opted to use C and C++ as my main two programming languages when solving these problems. The reason I have chosen C++ over
   some problems instead of C is due to some questions are best solved using object-oriented principles. I find writing C++ to be much easier although even
