@@ -20,7 +20,7 @@ This repository contains interview questions I have found either from:
   
   I am using the Google Test Framework because it is easy to use in my IDE of choice, Visual Studio. Visual Studio is easy to use and I have experience using it from college.
   
-     > Note: upon making this repository, I have switched to soley use the Linux distribution [Ubuntu](https://www.ubuntu.com/). Therefore I will be switching from Visual Studio to possibly just compiling my code via terminal using a compiler such as [g++](https://www.cprogramming.com/g++.html) ...
+     > Note: upon making this repository, I have switched to soley use the Linux distribution [Ubuntu](https://www.ubuntu.com/) . Therefore I will be switching from Visual Studio to possibly just compiling my code via terminal using a compiler such as [g++](https://www.cprogramming.com/g++.html) ...
   
   ### Why
   I have decided to share my code in order for recruiters and other engineers to see my style. All of the code here is written by me
