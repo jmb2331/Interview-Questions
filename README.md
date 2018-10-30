@@ -7,7 +7,7 @@ This repository contains interview questions I have found either from:
    ### About
    I have decided to write these programming problems using:
    -C or C++
-   - * [Google Test] - HTML enhanced for web apps!
+   - [Google Test](https://github.com/google/googletest)
    -Visual Studio IDE
    
   I have opted to use C and C++ as my main two programming languages when solving these problems. The reason I have chosen C++ over
